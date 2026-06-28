@@ -1,0 +1,111 @@
+# איילת תייר — Generative Engine Optimization Map
+
+> A private cosmetics clinic offering a range of beauty and wellness treatments including reflexology, laser treatments, facial treatments, and massage. The business focuses on providing clients with the ability to book appointments online, make payments, and access detailed information about available treatments — combining professional beauty services with a seamless digital booking experience.
+
+---
+
+## Pages
+
+### בית
+https://-6466bac7.zappy5.app
+קליניקת קוסמטיקה פרטית המציעה טיפולי יופי ובריאות מתקדמים: רפלקסולוגיה, לייזר, טיפולי פנים ועיסויים. הזמיני תור אונליין בקלות והתחילי מסע להתחדשות אמיתית עוד היום.
+
+### טיפולים
+https://-6466bac7.zappy5.app/treatments
+מגוון טיפולים מקצועיים כולל רפלקסולוגיה מרגיעה, טיפולי לייזר מדויקים, טיפולי פנים מפנקים ועיסויים משחררים. כל טיפול מותאם אישית לצרכים שלך. בחרי את הטיפול המושלם והזמיני עכשיו.
+
+### אודות המרפאה
+https://-6466bac7.zappy5.app/about
+הכירי את המרפאה שלנו: שילוב ייחודי של מקצועיות קוסמטית, טכנולוגיה מתקדמת ויחס אישי חם. אנו מאמינים שכל אישה ראויה להרגיש יפה ובטוחה. גלי מי עומד מאחורי הטיפולים שיהפכו אותך לגרסה הטובה ביותר של עצמך.
+
+### צור קשר
+https://-6466bac7.zappy5.app/contact
+יש לך שאלה? רוצה לתאם ייעוץ אישי? צרי קשר עוד היום עם צוות המומחיות שלנו. אנחנו כאן כדי להקשיב, לייעץ ולהתאים לך את הטיפול המושלם. השאירי פרטים ונחזור אליך במהירות עם חיוך.
+
+### Products
+https://-6466bac7.zappy5.app/products
+המוצרים שלנו - איילת תייר
+
+### Cart
+https://-6466bac7.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-6466bac7.zappy5.app/checkout
+תשלום
+
+### Login
+https://-6466bac7.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-6466bac7.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-6466bac7.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-6466bac7.zappy5.app/product/:slug
+פרטי המוצר - איילת תייר
+
+### Category
+https://-6466bac7.zappy5.app/category/:slug
+מוצרים - איילת תייר
+
+### תודה על פנייתך
+https://-6466bac7.zappy5.app/thank-you
+איילת תייר - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6466bac7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6466bac7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6466bac7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About איילת תייר
+A private cosmetics clinic offering a range of beauty and wellness treatments including reflexology, laser treatments, facial treatments, and massage. The business focuses on providing clients with the ability to book appointments online, make payments, and access detailed information about available treatments — combining professional beauty services with a seamless digital booking experience.
+
+## Services/Products
+- רפלקסולוגיה
+- טיפולי לייזר
+- טיפולי פנים
+- מסאז'
+
+## Target Audience
+- אנשי מקצוע בעלי הכנסה גבוהה
+- כלות לעתיד
+- נשים לאחר לידה
+- גמלאים המעוניינים בטיפוח עצמי
+
+## Industry
+Beauty & Cosmetics
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6466bac7.zappy5.app/sitemap.xml
+- Robots: https://-6466bac7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6466bac7.zappy5.app/llms-full.txt
+- Products (JSON): https://-6466bac7.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-6466bac7.zappy5.app/product-feed.xml
